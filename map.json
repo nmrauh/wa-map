@@ -333,39 +333,8 @@
          "tilewidth":32
         }, 
         {
-         "columns":0,
          "firstgid":455,
-         "grid":
-            {
-             "height":1,
-             "orientation":"orthogonal",
-             "width":1
-            },
-         "margin":0,
-         "name":"gather-backgrounds",
-         "spacing":0,
-         "tilecount":3,
-         "tileheight":1024,
-         "tiles":[
-                {
-                 "id":0,
-                 "image":"..\/activity-north.png",
-                 "imageheight":1024,
-                 "imagewidth":896
-                }, 
-                {
-                 "id":1,
-                 "image":"..\/activity-south.png",
-                 "imageheight":1024,
-                 "imagewidth":896
-                }, 
-                {
-                 "id":2,
-                 "image":"..\/festival_center.png",
-                 "imageheight":1024,
-                 "imagewidth":1536
-                }],
-         "tilewidth":1536
+         "source":"gather-backgrounds.tsx"
         }, 
         {
          "columns":16,
