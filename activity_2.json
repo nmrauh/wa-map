@@ -42,7 +42,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"activity_1.json#entryFromRight"
+                 "value":"map.json#entryFromRight"
                 }],
          "type":"tilelayer",
          "visible":true,
