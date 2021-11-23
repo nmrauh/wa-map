@@ -79,6 +79,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/jrmathfestival.github.io\/TippyToads\/"
+                }, 
+                {
+                 "name":"openWebsitePolicy",
+                 "type":"string",
+                 "value":"fullscreen"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -123,7 +128,7 @@
          "name":"floor",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":28,
          "x":0,
          "y":0
